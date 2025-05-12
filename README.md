@@ -1,8 +1,8 @@
 # LAP
-Automated program verification tool based on large model
+Automated program verification tool based on LLMs
 
 ## Overview
-This is an automated program verification tool we developed based on large models.
+This is an automated program verification tool we developed based on LLMs
 
 ## Requirements
 - Python 3.10.12
