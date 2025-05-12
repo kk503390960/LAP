@@ -2,7 +2,6 @@ from verifier import verifier
 import sys
 
 if __name__ == "__main__":
-    api_key = "sk-9aa6615a75aa4c80bee3ad5244d52fac"
     if len(sys.argv) > 1:
         file_path = sys.argv[1]
     else:
