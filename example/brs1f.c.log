@@ -1,0 +1,8 @@
+2025-01-21 00:43:56,012 - INFO - Processing file ./dataset/brs1f.c
+2025-01-21 00:43:56,372 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-21 00:44:20,182 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-21 00:44:22,907 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-21 00:44:27,337 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-21 00:44:46,510 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-21 00:44:47,881 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-21 00:44:50,653 - INFO - Verification result: false, time taken: 54.64 seconds
