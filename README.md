@@ -28,10 +28,7 @@ To set up the project, follow these steps:
 
 4. **Set up your OpenAI API key:**
    - Create a `.env` file in the root directory.
-   - Add your OpenAI API key to the `.env` file:
-     ```plaintext
-     LLM_API_KEY=your-api-key-here
-     ```
+   - Add your OpenAI API key to the `.env` file.
 
 ## Usage
 To run the project, use the following command:
