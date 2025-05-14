@@ -1,6 +1,0 @@
-The program has timed out. Please try again with a smaller and more manageable input.
-Generate a JSON response.
-Format your response in the following format:
-{
-"output program": 
-}

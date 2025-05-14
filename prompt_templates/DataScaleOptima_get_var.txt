@@ -1,6 +1,0 @@
-Now, since you believe that the semantic logic of the program is independent of the data scale, that is, if the variable that controls the data scale is appropriately reduced, it will not affect the correctness of the assertion of the entire program. So, please give the name of the variable that controls the data scale and the result after it can be reduced as much as possible; please give only one specific value for each variable. For example, if S is the name of the variable that controls the data scale, and S can be reduced to 3, you will respond with {"S":"3"}; if there are multiple variables, such as N and S are variables that control the data size, and N can be reduced to 10, S can be reduced to 3, you will respond with {"N":"10","S":"3"}.
-Generate a JSON response.
-Format your response in the following format:
-{
-"variables": please give the name of the variable that controls the data scale and the result after it can be reduced as much as possible; please give only one specific value for each variable. For example, if S is the name of the variable that controls the data scale, and S can be reduced to 3, you will respond with {"S":"3"}; if there are multiple variables, such as N and S are variables that control the data size, and N can be reduced to 10, S can be reduced to 3, you will respond with {"N":"10","S":"3"}.
-}

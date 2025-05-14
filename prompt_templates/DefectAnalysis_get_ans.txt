@@ -1,1 +1,0 @@
-Based on your analysis, please answer whether the assertion in the program is always true. If true, please answer "true"; if false, please answer "false". Please only answer "true" or "false".

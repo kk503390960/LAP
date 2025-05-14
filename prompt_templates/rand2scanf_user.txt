@@ -1,6 +1,0 @@
-Please change the assignment statement above to a C statement that gets input through scanf. Just give the statement content. For example, x = __VERIFIER_nondet_int();, then just reply scanf("%d", &x);. Please note that you do not add variable declarations, such as int x; in the above example.
-Generate JSON reply.
-Format your reply in the following format:
-{
-"code": your answer code
-}
